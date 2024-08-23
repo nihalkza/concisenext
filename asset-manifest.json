@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/concisenext/static/css/main.fa009fca.css",
+    "main.js": "/concisenext/static/js/main.4c8a9d50.js",
+    "static/js/453.64be9eb2.chunk.js": "/concisenext/static/js/453.64be9eb2.chunk.js",
+    "static/media/marketing.jpg": "/concisenext/static/media/marketing.9368120bbbb53afe2f86.jpg",
+    "static/media/signup.jpg": "/concisenext/static/media/signup.25964293b23b6141ed8f.jpg",
+    "static/media/design.jpg": "/concisenext/static/media/design.b064b72003482bf18d2d.jpg",
+    "static/media/consulting.jpg": "/concisenext/static/media/consulting.464699a53bbad1e288f9.jpg",
+    "static/media/home.jpg": "/concisenext/static/media/home.f1cf261dc872598f6a53.jpg",
+    "static/media/services.jpg": "/concisenext/static/media/services.9624b608f6c21862e914.jpg",
+    "static/media/products.jpg": "/concisenext/static/media/products.caa23e8abff03fd5917e.jpg",
+    "static/media/contactus.jpg": "/concisenext/static/media/contactus.70d62765ad250d5af227.jpg",
+    "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
+    "index.html": "/concisenext/index.html",
+    "main.fa009fca.css.map": "/concisenext/static/css/main.fa009fca.css.map",
+    "main.4c8a9d50.js.map": "/concisenext/static/js/main.4c8a9d50.js.map",
+    "453.64be9eb2.chunk.js.map": "/concisenext/static/js/453.64be9eb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa009fca.css",
+    "static/js/main.4c8a9d50.js"
+  ]
+}
