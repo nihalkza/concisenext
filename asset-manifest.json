@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.2c0f63f8.css",
-    "main.js": "/concisenext/static/js/main.5601ae63.js",
+    "main.css": "/concisenext/static/css/main.62345a29.css",
+    "main.js": "/concisenext/static/js/main.de76cf4d.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.4d18d7dd5163123f0203.mp4",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.539e39df8c437de23d81.webm",
+    "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/marketing.jpg": "/concisenext/static/media/marketing.9368120bbbb53afe2f86.jpg",
     "static/media/signup.jpg": "/concisenext/static/media/signup.25964293b23b6141ed8f.jpg",
     "static/media/design.jpg": "/concisenext/static/media/design.b064b72003482bf18d2d.jpg",
@@ -15,15 +16,16 @@
     "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
     "static/media/sage.webp": "/concisenext/static/media/sage.0cd03ca45265f4082753.webp",
     "static/media/tax.webp": "/concisenext/static/media/tax.9db1eb6fc42d6573f812.webp",
+    "static/media/saeg.webp": "/concisenext/static/media/saeg.a7f677326c17e32bca46.webp",
     "static/media/download.webp": "/concisenext/static/media/download.10e2c8d25eb6a6ffaaf8.webp",
     "static/media/logo.webp": "/concisenext/static/media/logo.bb42d1d84fa6614eaf24.webp",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.2c0f63f8.css.map": "/concisenext/static/css/main.2c0f63f8.css.map",
-    "main.5601ae63.js.map": "/concisenext/static/js/main.5601ae63.js.map"
+    "main.62345a29.css.map": "/concisenext/static/css/main.62345a29.css.map",
+    "main.de76cf4d.js.map": "/concisenext/static/js/main.de76cf4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c0f63f8.css",
-    "static/js/main.5601ae63.js"
+    "static/css/main.62345a29.css",
+    "static/js/main.de76cf4d.js"
   ]
 }
