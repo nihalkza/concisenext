@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.3aa079aa.css",
-    "main.js": "/concisenext/static/js/main.85b81c54.js",
+    "main.css": "/concisenext/static/css/main.4411d14e.css",
+    "main.js": "/concisenext/static/js/main.443336fe.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.4d18d7dd5163123f0203.mp4",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.539e39df8c437de23d81.webm",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
@@ -12,20 +12,29 @@
     "static/media/home.jpg": "/concisenext/static/media/home.f1cf261dc872598f6a53.jpg",
     "static/media/services.jpg": "/concisenext/static/media/services.9624b608f6c21862e914.jpg",
     "static/media/products.jpg": "/concisenext/static/media/products.caa23e8abff03fd5917e.jpg",
+    "static/media/fa-solid-900.ttf": "/concisenext/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/contactus.jpg": "/concisenext/static/media/contactus.70d62765ad250d5af227.jpg",
     "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
+    "static/media/sageban.png": "/concisenext/static/media/sageban.94ddc76f49124463f836.png",
+    "static/media/fa-brands-400.ttf": "/concisenext/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/concisenext/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/concisenext/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/sage.webp": "/concisenext/static/media/sage.0cd03ca45265f4082753.webp",
+    "static/media/fa-regular-400.ttf": "/concisenext/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/tax.webp": "/concisenext/static/media/tax.9db1eb6fc42d6573f812.webp",
     "static/media/saeg.webp": "/concisenext/static/media/saeg.a7f677326c17e32bca46.webp",
     "static/media/download.webp": "/concisenext/static/media/download.10e2c8d25eb6a6ffaaf8.webp",
+    "static/media/fa-regular-400.woff2": "/concisenext/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/concisenext/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/logo.webp": "/concisenext/static/media/logo.bb42d1d84fa6614eaf24.webp",
+    "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.3aa079aa.css.map": "/concisenext/static/css/main.3aa079aa.css.map",
-    "main.85b81c54.js.map": "/concisenext/static/js/main.85b81c54.js.map"
+    "main.4411d14e.css.map": "/concisenext/static/css/main.4411d14e.css.map",
+    "main.443336fe.js.map": "/concisenext/static/js/main.443336fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aa079aa.css",
-    "static/js/main.85b81c54.js"
+    "static/css/main.4411d14e.css",
+    "static/js/main.443336fe.js"
   ]
 }
