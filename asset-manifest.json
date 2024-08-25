@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.fa009fca.css",
-    "main.js": "/concisenext/static/js/main.4c8a9d50.js",
-    "static/js/453.64be9eb2.chunk.js": "/concisenext/static/js/453.64be9eb2.chunk.js",
+    "main.css": "/concisenext/static/css/main.2c0f63f8.css",
+    "main.js": "/concisenext/static/js/main.ceb05976.js",
+    "static/media/0825.mp4": "/concisenext/static/media/0825.4d18d7dd5163123f0203.mp4",
+    "static/media/0825.webm": "/concisenext/static/media/0825.539e39df8c437de23d81.webm",
     "static/media/marketing.jpg": "/concisenext/static/media/marketing.9368120bbbb53afe2f86.jpg",
     "static/media/signup.jpg": "/concisenext/static/media/signup.25964293b23b6141ed8f.jpg",
     "static/media/design.jpg": "/concisenext/static/media/design.b064b72003482bf18d2d.jpg",
@@ -12,13 +13,17 @@
     "static/media/products.jpg": "/concisenext/static/media/products.caa23e8abff03fd5917e.jpg",
     "static/media/contactus.jpg": "/concisenext/static/media/contactus.70d62765ad250d5af227.jpg",
     "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
+    "static/media/sage.webp": "/concisenext/static/media/sage.0cd03ca45265f4082753.webp",
+    "static/media/tax.webp": "/concisenext/static/media/tax.9db1eb6fc42d6573f812.webp",
+    "static/media/download.webp": "/concisenext/static/media/download.10e2c8d25eb6a6ffaaf8.webp",
+    "static/media/logo.webp": "/concisenext/static/media/logo.bb42d1d84fa6614eaf24.webp",
+    "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.fa009fca.css.map": "/concisenext/static/css/main.fa009fca.css.map",
-    "main.4c8a9d50.js.map": "/concisenext/static/js/main.4c8a9d50.js.map",
-    "453.64be9eb2.chunk.js.map": "/concisenext/static/js/453.64be9eb2.chunk.js.map"
+    "main.2c0f63f8.css.map": "/concisenext/static/css/main.2c0f63f8.css.map",
+    "main.ceb05976.js.map": "/concisenext/static/js/main.ceb05976.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa009fca.css",
-    "static/js/main.4c8a9d50.js"
+    "static/css/main.2c0f63f8.css",
+    "static/js/main.ceb05976.js"
   ]
 }
