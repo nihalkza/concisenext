@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.45e8a7c4.css",
-    "main.js": "/concisenext/static/js/main.6c069ab4.js",
-    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.4d18d7dd5163123f0203.mp4",
-    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.539e39df8c437de23d81.webm",
+    "main.css": "/concisenext/static/css/main.8fde73f4.css",
+    "main.js": "/concisenext/static/js/main.fd3c75c8.js",
+    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.022d5e5df7b37bfb9b80.mp4",
+    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.d5e2dbb755d537905c29.webm",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/marketing.jpg": "/concisenext/static/media/marketing.9368120bbbb53afe2f86.jpg",
     "static/media/signup.jpg": "/concisenext/static/media/signup.25964293b23b6141ed8f.jpg",
+    "static/media/datasecurity.webp": "/concisenext/static/media/datasecurity.aad7d497454d2f8a5b8d.webp",
     "static/media/design.jpg": "/concisenext/static/media/design.b064b72003482bf18d2d.jpg",
     "static/media/consulting.jpg": "/concisenext/static/media/consulting.464699a53bbad1e288f9.jpg",
     "static/media/home.jpg": "/concisenext/static/media/home.f1cf261dc872598f6a53.jpg",
     "static/media/services.jpg": "/concisenext/static/media/services.9624b608f6c21862e914.jpg",
     "static/media/products.jpg": "/concisenext/static/media/products.caa23e8abff03fd5917e.jpg",
+    "static/media/quickbookpre.webp": "/concisenext/static/media/quickbookpre.f80061bc10df6e81dac5.webp",
     "static/media/fa-solid-900.ttf": "/concisenext/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/contactus.jpg": "/concisenext/static/media/contactus.70d62765ad250d5af227.jpg",
+    "static/media/accesdata.webp": "/concisenext/static/media/accesdata.c4db8c7b61defd01cc93.webp",
     "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
     "static/media/sageban.png": "/concisenext/static/media/sageban.94ddc76f49124463f836.png",
     "static/media/fa-brands-400.ttf": "/concisenext/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -33,6 +36,7 @@
     "static/media/saeg.webp": "/concisenext/static/media/saeg.a7f677326c17e32bca46.webp",
     "static/media/download.webp": "/concisenext/static/media/download.10e2c8d25eb6a6ffaaf8.webp",
     "static/media/qbHeroImg.webp": "/concisenext/static/media/qbHeroImg.3314db723882d67b55f0.webp",
+    "static/media/hostingsec.webp": "/concisenext/static/media/hostingsec.4089f52c7b4f391a2ce3.webp",
     "static/media/Accessibility.webp": "/concisenext/static/media/Accessibility.2dc1cc290c652555209e.webp",
     "static/media/fa-regular-400.woff2": "/concisenext/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/fa-v4compatibility.ttf": "/concisenext/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
@@ -40,11 +44,11 @@
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.45e8a7c4.css.map": "/concisenext/static/css/main.45e8a7c4.css.map",
-    "main.6c069ab4.js.map": "/concisenext/static/js/main.6c069ab4.js.map"
+    "main.8fde73f4.css.map": "/concisenext/static/css/main.8fde73f4.css.map",
+    "main.fd3c75c8.js.map": "/concisenext/static/js/main.fd3c75c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e8a7c4.css",
-    "static/js/main.6c069ab4.js"
+    "static/css/main.8fde73f4.css",
+    "static/js/main.fd3c75c8.js"
   ]
 }
