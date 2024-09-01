@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/concisenext/static/css/main.cdeb79c8.css",
-    "main.js": "/concisenext/static/js/main.2c76ddb8.js",
-    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.022d5e5df7b37bfb9b80.mp4",
-    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.d5e2dbb755d537905c29.webm",
+    "main.js": "/concisenext/static/js/main.fe8d8774.js",
+    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.b5554be43731a18f96d5.mp4",
+    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.2592d5bf3de69e893b6c.webm",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/marketing.jpg": "/concisenext/static/media/marketing.9368120bbbb53afe2f86.jpg",
     "static/media/signup.jpg": "/concisenext/static/media/signup.25964293b23b6141ed8f.jpg",
@@ -65,10 +65,10 @@
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
     "main.cdeb79c8.css.map": "/concisenext/static/css/main.cdeb79c8.css.map",
-    "main.2c76ddb8.js.map": "/concisenext/static/js/main.2c76ddb8.js.map"
+    "main.fe8d8774.js.map": "/concisenext/static/js/main.fe8d8774.js.map"
   },
   "entrypoints": [
     "static/css/main.cdeb79c8.css",
-    "static/js/main.2c76ddb8.js"
+    "static/js/main.fe8d8774.js"
   ]
 }
