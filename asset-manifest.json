@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.f8d0a71b.css",
-    "main.js": "/concisenext/static/js/main.68525383.js",
+    "main.css": "/concisenext/static/css/main.5c1caf95.css",
+    "main.js": "/concisenext/static/js/main.43570808.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.b5554be43731a18f96d5.mp4",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.2592d5bf3de69e893b6c.webm",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
@@ -20,7 +20,6 @@
     "static/media/contactus.jpg": "/concisenext/static/media/contactus.70d62765ad250d5af227.jpg",
     "static/media/accesdata.webp": "/concisenext/static/media/accesdata.c4db8c7b61defd01cc93.webp",
     "static/media/development.jpg": "/concisenext/static/media/development.87023352f7d7d96be13e.jpg",
-    "static/media/sageban.png": "/concisenext/static/media/sageban.94ddc76f49124463f836.png",
     "static/media/fa-brands-400.ttf": "/concisenext/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/enterprisefirst.webp": "/concisenext/static/media/enterprisefirst.328d63d8eb60e992bf2f.webp",
     "static/media/fa-solid-900.woff2": "/concisenext/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -64,11 +63,11 @@
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.f8d0a71b.css.map": "/concisenext/static/css/main.f8d0a71b.css.map",
-    "main.68525383.js.map": "/concisenext/static/js/main.68525383.js.map"
+    "main.5c1caf95.css.map": "/concisenext/static/css/main.5c1caf95.css.map",
+    "main.43570808.js.map": "/concisenext/static/js/main.43570808.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8d0a71b.css",
-    "static/js/main.68525383.js"
+    "static/css/main.5c1caf95.css",
+    "static/js/main.43570808.js"
   ]
 }
