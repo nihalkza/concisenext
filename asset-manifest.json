@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.995f4971.css",
-    "main.js": "/concisenext/static/js/main.e9c6eea6.js",
-    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.b5554be43731a18f96d5.mp4",
-    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.2592d5bf3de69e893b6c.webm",
+    "main.css": "/concisenext/static/css/main.0711ea87.css",
+    "main.js": "/concisenext/static/js/main.e3c59c91.js",
+    "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.1c9d6edef5fc76804d07.mp4",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
+    "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.96359dc17d14a9fe3fd2.webm",
     "static/media/relper.webp": "/concisenext/static/media/relper.d31769327bc42d622196.webp",
     "static/media/datasecurity.webp": "/concisenext/static/media/datasecurity.aad7d497454d2f8a5b8d.webp",
     "static/media/possuport.webp": "/concisenext/static/media/possuport.840702e0d2dc13235668.webp",
     "static/media/quickbookpre.webp": "/concisenext/static/media/quickbookpre.f80061bc10df6e81dac5.webp",
     "static/media/fa-solid-900.ttf": "/concisenext/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/accesdata.webp": "/concisenext/static/media/accesdata.c4db8c7b61defd01cc93.webp",
+    "static/media/products.svg": "/concisenext/static/media/products.7b90b3b8e29f46390428a68095dee125.svg",
     "static/media/fa-brands-400.ttf": "/concisenext/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/enterprisefirst.webp": "/concisenext/static/media/enterprisefirst.328d63d8eb60e992bf2f.webp",
     "static/media/fa-solid-900.woff2": "/concisenext/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -23,6 +24,7 @@
     "static/media/possecurity.webp": "/concisenext/static/media/possecurity.42696cd64988b1dd72e5.webp",
     "static/media/uptime.webp": "/concisenext/static/media/uptime.4914270f9c8c67783931.webp",
     "static/media/poscost.webp": "/concisenext/static/media/poscost.30bd4d7c3d945a063327.webp",
+    "static/media/logoi2.png": "/concisenext/static/media/logoi2.ecbbfacbbe680ecfedb6.png",
     "static/media/pos1.webp": "/concisenext/static/media/pos1.ff3575daf4671148c930.webp",
     "static/media/sage.webp": "/concisenext/static/media/sage.0cd03ca45265f4082753.webp",
     "static/media/scalable.webp": "/concisenext/static/media/scalable.f92528ec3d8d1be9060c.webp",
@@ -50,15 +52,14 @@
     "static/media/posremote.webp": "/concisenext/static/media/posremote.fa30c38a2d9cd513076a.webp",
     "static/media/enterpriseremote.webp": "/concisenext/static/media/enterpriseremote.094ab7c9c7cf6157c570.webp",
     "static/media/fa-v4compatibility.ttf": "/concisenext/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/logo.webp": "/concisenext/static/media/logo.bb42d1d84fa6614eaf24.webp",
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.995f4971.css.map": "/concisenext/static/css/main.995f4971.css.map",
-    "main.e9c6eea6.js.map": "/concisenext/static/js/main.e9c6eea6.js.map"
+    "main.0711ea87.css.map": "/concisenext/static/css/main.0711ea87.css.map",
+    "main.e3c59c91.js.map": "/concisenext/static/js/main.e3c59c91.js.map"
   },
   "entrypoints": [
-    "static/css/main.995f4971.css",
-    "static/js/main.e9c6eea6.js"
+    "static/css/main.0711ea87.css",
+    "static/js/main.e3c59c91.js"
   ]
 }
