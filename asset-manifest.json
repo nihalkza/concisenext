@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.5f8bc250.css",
-    "main.js": "/concisenext/static/js/main.41abbd10.js",
+    "main.css": "/concisenext/static/css/main.edd578e8.css",
+    "main.js": "/concisenext/static/js/main.b9e25f5e.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.1c9d6edef5fc76804d07.mp4",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.96359dc17d14a9fe3fd2.webm",
@@ -19,14 +19,19 @@
     "static/media/multiUsr.webp": "/concisenext/static/media/multiUsr.4aba5aaeffe1ae4c2f3f.webp",
     "static/media/fa-brands-400.woff2": "/concisenext/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/teamwrk.webp": "/concisenext/static/media/teamwrk.716879c101c35ffafb40.webp",
+    "static/media/quickbook.webp": "/concisenext/static/media/quickbook.077668f9a0883dbcf91d.webp",
     "static/media/dataBackup.webp": "/concisenext/static/media/dataBackup.719d0983f63096f9fbaa.webp",
     "static/media/postintegra.webp": "/concisenext/static/media/postintegra.7be2f4edc2cd8aefafc5.webp",
     "static/media/possecurity.webp": "/concisenext/static/media/possecurity.42696cd64988b1dd72e5.webp",
+    "static/media/premier.webp": "/concisenext/static/media/premier.a94506ab93daa7c85a3d.webp",
+    "static/media/enterprise.webp": "/concisenext/static/media/enterprise.3d14cb06633cb443291a.webp",
+    "static/media/add-ons.webp": "/concisenext/static/media/add-ons.844768a34ce294f0d3b1.webp",
+    "static/media/pos.webp": "/concisenext/static/media/pos.67883a794ecc89f9fcd1.webp",
+    "static/media/pro.webp": "/concisenext/static/media/pro.eb20f35d20353a9a1e21.webp",
     "static/media/uptime.webp": "/concisenext/static/media/uptime.4914270f9c8c67783931.webp",
     "static/media/poscost.webp": "/concisenext/static/media/poscost.30bd4d7c3d945a063327.webp",
     "static/media/logoi.png": "/concisenext/static/media/logoi.33be3d9ff6c7ac5cb3c3.png",
     "static/media/logocolor.png": "/concisenext/static/media/logocolor.481479ea418411f3e450.png",
-    "static/media/pos1.webp": "/concisenext/static/media/pos1.ff3575daf4671148c930.webp",
     "static/media/sage.webp": "/concisenext/static/media/sage.0cd03ca45265f4082753.webp",
     "static/media/scalable.webp": "/concisenext/static/media/scalable.f92528ec3d8d1be9060c.webp",
     "static/media/addons1.webp": "/concisenext/static/media/addons1.565081a95d0bd6ea11b1.webp",
@@ -40,7 +45,6 @@
     "static/media/qbHosting.webp": "/concisenext/static/media/qbHosting.15a82944803e97b8aec0.webp",
     "static/media/Support.webp": "/concisenext/static/media/Support.cf600fd1ec9401e4d37e.webp",
     "static/media/enterprise2.webp": "/concisenext/static/media/enterprise2.3e1d3f23c75b82b0b585.webp",
-    "static/media/prohosting.webp": "/concisenext/static/media/prohosting.a626b09a6efac9739a22.webp",
     "static/media/saeg.webp": "/concisenext/static/media/saeg.a7f677326c17e32bca46.webp",
     "static/media/download.webp": "/concisenext/static/media/download.10e2c8d25eb6a6ffaaf8.webp",
     "static/media/qbHeroImg.webp": "/concisenext/static/media/qbHeroImg.3314db723882d67b55f0.webp",
@@ -56,11 +60,11 @@
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.5f8bc250.css.map": "/concisenext/static/css/main.5f8bc250.css.map",
-    "main.41abbd10.js.map": "/concisenext/static/js/main.41abbd10.js.map"
+    "main.edd578e8.css.map": "/concisenext/static/css/main.edd578e8.css.map",
+    "main.b9e25f5e.js.map": "/concisenext/static/js/main.b9e25f5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f8bc250.css",
-    "static/js/main.41abbd10.js"
+    "static/css/main.edd578e8.css",
+    "static/js/main.b9e25f5e.js"
   ]
 }
