@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.edd578e8.css",
-    "main.js": "/concisenext/static/js/main.b9e25f5e.js",
+    "main.css": "/concisenext/static/css/main.b5068955.css",
+    "main.js": "/concisenext/static/js/main.19e3d56c.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.1c9d6edef5fc76804d07.mp4",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.96359dc17d14a9fe3fd2.webm",
+    "static/media/dollar.png": "/concisenext/static/media/dollar.42ce0d6cfca270aff6f7.png",
     "static/media/relper.webp": "/concisenext/static/media/relper.d31769327bc42d622196.webp",
     "static/media/datasecurity.webp": "/concisenext/static/media/datasecurity.aad7d497454d2f8a5b8d.webp",
     "static/media/possuport.webp": "/concisenext/static/media/possuport.840702e0d2dc13235668.webp",
@@ -52,6 +53,7 @@
     "static/media/hostingsec.webp": "/concisenext/static/media/hostingsec.4089f52c7b4f391a2ce3.webp",
     "static/media/Accessibility.webp": "/concisenext/static/media/Accessibility.2dc1cc290c652555209e.webp",
     "static/media/enterpriserelibilities.webp": "/concisenext/static/media/enterpriserelibilities.4b4f40eb4e29974dcd84.webp",
+    "static/media/notfound.png": "/concisenext/static/media/notfound.357da7b8f90a44169a7f.png",
     "static/media/fa-regular-400.woff2": "/concisenext/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/enterprisesecu.webp": "/concisenext/static/media/enterprisesecu.863307388c1b575bb590.webp",
     "static/media/posremote.webp": "/concisenext/static/media/posremote.fa30c38a2d9cd513076a.webp",
@@ -60,11 +62,11 @@
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.edd578e8.css.map": "/concisenext/static/css/main.edd578e8.css.map",
-    "main.b9e25f5e.js.map": "/concisenext/static/js/main.b9e25f5e.js.map"
+    "main.b5068955.css.map": "/concisenext/static/css/main.b5068955.css.map",
+    "main.19e3d56c.js.map": "/concisenext/static/js/main.19e3d56c.js.map"
   },
   "entrypoints": [
-    "static/css/main.edd578e8.css",
-    "static/js/main.b9e25f5e.js"
+    "static/css/main.b5068955.css",
+    "static/js/main.19e3d56c.js"
   ]
 }
