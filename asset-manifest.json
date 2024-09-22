@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/concisenext/static/css/main.b5068955.css",
-    "main.js": "/concisenext/static/js/main.19e3d56c.js",
+    "main.css": "/concisenext/static/css/main.5a656bf0.css",
+    "main.js": "/concisenext/static/js/main.ef1d2f0a.js",
     "static/media/homeVideo.mp4": "/concisenext/static/media/homeVideo.1c9d6edef5fc76804d07.mp4",
     "static/media/quickbook.jpg": "/concisenext/static/media/quickbook.300890d5c9dc8614403c.jpg",
     "static/media/homeVideo.webm": "/concisenext/static/media/homeVideo.96359dc17d14a9fe3fd2.webm",
@@ -62,11 +62,11 @@
     "static/media/fa-v4compatibility.woff2": "/concisenext/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/qb.webp": "/concisenext/static/media/qb.b0083677402ead862387.webp",
     "index.html": "/concisenext/index.html",
-    "main.b5068955.css.map": "/concisenext/static/css/main.b5068955.css.map",
-    "main.19e3d56c.js.map": "/concisenext/static/js/main.19e3d56c.js.map"
+    "main.5a656bf0.css.map": "/concisenext/static/css/main.5a656bf0.css.map",
+    "main.ef1d2f0a.js.map": "/concisenext/static/js/main.ef1d2f0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5068955.css",
-    "static/js/main.19e3d56c.js"
+    "static/css/main.5a656bf0.css",
+    "static/js/main.ef1d2f0a.js"
   ]
 }
